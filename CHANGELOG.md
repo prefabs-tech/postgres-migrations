@@ -1,3 +1,12 @@
+## [5.4.2](https://github.com/thomwright/postgres-migrations/compare/v5.4.1...v5.4.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* fix migration hash mismatched issue ([#13](https://github.com/thomwright/postgres-migrations/issues/13)) ([5931143](https://github.com/thomwright/postgres-migrations/commit/5931143c811e7eac9a5aa4ef72252252f1a6b0c9))
+
+
+
 # Changelog
 
 ## [5.4.1](https://github.com/thomwright/postgres-migrations/compare/v5.4.0...v5.4.1) (2023-01-19)
