@@ -1,3 +1,7 @@
+## [5.4.3](https://github.com/thomwright/postgres-migrations/compare/v5.4.2...v5.4.3) (2025-07-24)
+
+
+
 ## [5.4.2](https://github.com/thomwright/postgres-migrations/compare/v5.4.1...v5.4.2) (2023-08-17)
 
 
